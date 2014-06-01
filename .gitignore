@@ -1,0 +1,13 @@
+*.gem
+*.iml
+*.iws
+*.ipr
+.bundle
+.idea/
+proba.rb
+db/*.sqlite3
+log/*.log
+tmp/**/*
+config/database.yml
+.sass-cache/
+atlassian-ide-plugin.xml
